@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradiții și Obiceiuri de Paste</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tradiții și Obiceiuri de Paste</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Acasă</a></li>
+                <li><a href="traditii.html">Tradiții și Obiceiuri</a></li>
+                <li><a href="mancaruri.html">Mâncăruri Tradiționale</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Tradiții de Paste în Republica Moldova</h2>
+            <p>În Republica Moldova, Pastele este o sărbătoare importantă, cu multe tradiții și obiceiuri. Printre acestea se numără:</p>
+            <ul>
+                <li>Pregătirea casei și curățenia generală înainte de sărbătoare.</li>
+                <li>Vopsirea ouălor în roșu și alte culori.</li>
+                <li>Participarea la slujba de Înviere în noaptea de Înviere.</li>
+                <li>Împărtășirea cu pască și ouă roșii la masa de Paste.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Pastele. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
