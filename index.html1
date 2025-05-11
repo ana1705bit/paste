@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pastele - Informații Generale</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pastele</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Acasă</a></li>
+                <li><a href="traditii.html">Tradiții și Obiceiuri</a></li>
+                <li><a href="mancaruri.html">Mâncăruri Tradiționale</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Informații Generale despre Paste</h2>
+            <p>Pastele este una dintre cele mai importante sărbători creștine, marcând Învierea lui Iisus Hristos. Este o sărbătoare a speranței, a renașterii și a bucuriei.</p>
+            <p>Pastele este celebrat diferit în întreaga lume, dar un lucru este comun: este un moment de reuniune familială și de împărtășire a bucuriei.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Pastele. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
