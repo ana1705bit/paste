@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mâncăruri Tradiționale de Paste</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mâncăruri Tradiționale de Paste</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Acasă</a></li>
+                <li><a href="traditii.html">Tradiții și Obiceiuri</a></li>
+                <li><a href="mancaruri.html">Mâncăruri Tradiționale</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Mâncăruri Tradiționale de Paste în Moldova</h2>
+            <ul class="list-with-images">
+                <li>
+                    <img src="images/cozonac.jpg" alt="Cozonac">
+                    <p><strong>Cozonac</strong> - Pâine dulce cu nucă, stafide și cacao.</p>
+                </li>
+                <li>
+                    <img src="images/pasca.jpg" alt="Pasca">
+                    <p><strong>Pasca</strong> - Desert cu brânză dulce și stafide.</p>
+                </li>
+                <li>
+                    <img src="images/sarmale.jpg" alt="Sarmale">
+                    <p><strong>Sarmale</strong> - Foi de varză umplute cu carne și orez.</p>
+                </li>
+                <li>
+                    <img src="images/drob.jpg" alt="Drob de miel">
+                    <p><strong>Drob de miel</strong> - Preparat din măruntaie de miel și verdețuri.</p>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Pastele. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
